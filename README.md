@@ -13,13 +13,13 @@ Outside of coding, I love getting my hands dirty with creative projects like hom
 
 ## 🚀 About Me
 
-- I am an experienced web product content manager skilled in eCommerce product management, SEO optimization, and digital content creation. 
-- I am also proficient in HTML/CSS with a focus on enhancing user experiences and SEO rankings.
-- Dedicated and driven React developer with a strong commitment to advancing expertise in React and related technologies. 
-- Experienced in mastering React fundamentals, including JSX, components, state management, and lifecycle methods. 
-- Seeking opportunities to leverage skills in building efficient and scalable web applications.
-- Eager to contribute to dynamic teams and projects while continuously learning and growing in the field of front-end development.
-- Additionally, as a trans / immigrant man myself, I am dedicated to diversity and advocacy, particularly within the LGBTQ+ and TGNC community(s).
++ Experienced web product content manager skilled in eCommerce product management, SEO optimization, and digital content creation. 
++ Proficient in HTML/CSS with a focus on enhancing user experiences and SEO rankings.
++ Dedicated and driven React developer with a strong commitment to advancing expertise in React and related technologies. 
++ Experienced in mastering React fundamentals, including JSX, components, state management, and lifecycle methods. 
++ Seeking opportunities to leverage skills in building efficient and scalable web applications.
++ Eager to contribute to dynamic teams and projects while continuously learning and growing in the field of front-end development.
++ Additionally, as a trans / immigrant man myself, I am dedicated to diversity and advocacy, particularly within the LGBTQ+ and TGNC community(s).
 
 <br>
 
@@ -30,11 +30,11 @@ Outside of coding, I love getting my hands dirty with creative projects like hom
 
 ## 🌱 Currently Exploring
 
-  - Expanding proficiency in advanced concepts such as React Hooks, context API, and Redux for state management.
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with MaterialUI to create modern and responsive user interfaces.
-  - Learning Full Stack Web Development
+  + Expanding proficiency in advanced concepts such as React Hooks, context API, and Redux for state management.
+  + Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  + Navigating through the world of React Router for seamless page transitions.
+  + Styling with MaterialUI to create modern and responsive user interfaces.
+  + Learning Full Stack Web Development
 
 <br>
 
