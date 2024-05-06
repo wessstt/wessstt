@@ -8,13 +8,13 @@ I have a strong passion for delving into the world of front-end development, eag
 
 ## 🚀 About Me
 
-— I am an experienced web product content manager skilled in eCommerce product management, SEO optimization, and digital content creation. 
-— I am also proficient in HTML/CSS with a focus on enhancing user experiences and SEO rankings.
-— Dedicated and driven React developer with a strong commitment to advancing expertise in React and related technologies. 
-— Experienced in mastering React fundamentals, including JSX, components, state management, and lifecycle methods. 
-— Seeking opportunities to leverage skills in building efficient and scalable web applications.
-— Eager to contribute to dynamic teams and projects while continuously learning and growing in the field of front-end development.
-— Additionally, as a trans / immigrant man myself, I am dedicated to diversity and advocacy, particularly within the LGBTQ+ and TGNC community(s).
+- I am an experienced web product content manager skilled in eCommerce product management, SEO optimization, and digital content creation. 
+- I am also proficient in HTML/CSS with a focus on enhancing user experiences and SEO rankings.
+- Dedicated and driven React developer with a strong commitment to advancing expertise in React and related technologies. 
+- Experienced in mastering React fundamentals, including JSX, components, state management, and lifecycle methods. 
+- Seeking opportunities to leverage skills in building efficient and scalable web applications.
+- Eager to contribute to dynamic teams and projects while continuously learning and growing in the field of front-end development.
+- Additionally, as a trans / immigrant man myself, I am dedicated to diversity and advocacy, particularly within the LGBTQ+ and TGNC community(s).
 
 
 ## Tech Stack
