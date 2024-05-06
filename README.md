@@ -1,4 +1,4 @@
-# Howdy, I'm Keri West! 👋
+# 👋 Howdy, <br> I'm Keri West! 
 #### _Pronouns: he/ him/ his_
 
 I have a strong passion for delving into the world of front-end development, eager to grasp every detail and technique that goes into creating compelling digital experiences. I find immense satisfaction in using my skills to make meaningful and impactful work that resonates with users.
@@ -48,7 +48,7 @@ Outside of coding, I love getting my hands dirty with creative projects like hom
 ## 📬 Let's Connect
 
  <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/keri-west/)">
+  <a href="https://www.linkedin.com/in/keri-west/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>
