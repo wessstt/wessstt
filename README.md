@@ -1,4 +1,4 @@
-# Hi, I'm Keri West! 👋
+# Howdy, I'm Keri West! 👋
 #### _Pronouns: he/ him/ his_
 
 I have a strong passion for delving into the world of front-end development, eager to grasp every detail and technique that goes into creating compelling digital experiences. I find immense satisfaction in using my skills to make meaningful and impactful work that resonates with users.
