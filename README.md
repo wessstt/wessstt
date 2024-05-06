@@ -18,7 +18,7 @@ I have a strong passion for delving into the world of front-end development, eag
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma&theme=dark,ai,ps,materialui,ts,vite,vscode,git,github,npm,yarn,webflow,wordpress)(https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma&theme=dark,ai,ps,materialui,ts,vite,vscode,git,github,npm)(https://skillicons.dev)
 
 
 ## 🌱 Currently Exploring
