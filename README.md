@@ -24,8 +24,8 @@ Outside of coding, I love getting my hands dirty with creative projects like hom
 <br>
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,ai,ps)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=materialui,ts,vite,vscode,git,github,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,figma,ai,ps,materialui,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=materialui,vite,vscode,git,github,npm,yarn,webpack,wordpress,webflow)](https://skillicons.dev)
 
 <br>
 
